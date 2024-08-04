@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+
+    <!-- Pasta -->
+    <string name="pastaIngredients">Pasta\nCream Cheese\nParmesan Cheese\nOlive Oil\nGarlic\nSalt\nPepper</string>
+    <string name="pastaDesc">1. Cook the pasta until al dente.\n2. Sauté garlic in olive oil until fragrant.\n3. Add cream cheese, a splash of pasta cooking water, and Parmesan cheese. Stir well.\n4. Drain the pasta and add it to the skillet.\n5. Toss everything until well combined, adding more pasta water if needed.</string>
+
+    <!-- Maggi Noodles -->
+    <string name="maggiIngredients">Maggi Noodles\nWater\nMaggi Masala</string>
+    <string name="maggieDesc">1. Boil 1.5 cups of water.\n2. Add Maggi noodles and cook until soft.\n3. Stir in the Maggi masala.\n4. Cook for 2 minutes.\n5. Your Maggi noodles are ready to enjoy!</string>
+
+    <!-- Cake -->
+    <string name="cakeIngredients">Flour\nSugar\nBaking Powder\nButter\nEggs\nVanilla Extract\nMilk</string>
+    <string name="cakeDesc">1. Preheat the oven to 350°F (175°C).\n2. Mix flour, sugar, and baking powder in a bowl.\n3. In another bowl, cream butter and sugar together.\n4. Add eggs, vanilla extract, and mix well.\n5. Combine the wet and dry ingredients, then add milk until smooth.\n6. Pour batter into a greased pan and bake for 30-35 minutes.</string>
+
+    <!-- Pancake -->
+    <string name="pancakeIngredients">Flour\nMilk\nEgg\nSugar\nBaking Powder\nButter</string>
+    <string name="pancakeDesc">1. Mix flour, sugar, and baking powder in a bowl.\n2. In another bowl, whisk together milk, egg, and melted butter.\n3. Combine the wet and dry ingredients until smooth.\n4. Heat a griddle and pour batter to form pancakes.\n5. Cook until bubbles form on the surface, then flip and cook until golden brown.</string>
+
+    <!-- Pizza -->
+    <string name="pizzaIngredients">Pizza Dough\nTomato Sauce\nMozzarella Cheese\nToppings of Choice (e.g., pepperoni, mushrooms, bell peppers)</string>
+    <string name="pizzaDesc">1. Preheat the oven to 475°F (245°C).\n2. Roll out the pizza dough on a floured surface.\n3. Spread tomato sauce evenly over the dough.\n4. Sprinkle mozzarella cheese on top and add your choice of toppings.\n5. Bake for 12-15 minutes or until the crust is golden and cheese is bubbly.</string>
+
+    <!-- Burgers -->
+    <string name="burgerIngredients">Ground Beef\nBurger Buns\nLettuce\nTomato\nCheese Slices\nKetchup\nMustard</string>
+    <string name="burgerDesc">1. Shape ground beef into patties and season with salt and pepper.\n2. Grill or pan-fry the patties until cooked to your liking.\n3. Toast the burger buns on the grill or in a toaster.\n4. Assemble the burger with lettuce, tomato, cheese, and your choice of condiments.\n5. Serve immediately.</string>
+
+
+
+
+
+    <!-- Fries -->
+    <string name="friesIngredients">Potatoes\nSalt\nVegetable Oil\nPepper\nOptional: Paprika, Garlic Powder</string>
+    <string name="friesDesc">1. Peel and cut potatoes into thin strips.\n2. Soak the strips in water for at least 30 minutes, then pat dry.\n3. Heat vegetable oil in a fryer or large pan.\n4. Fry potatoes in batches until golden and crispy.\n5. Drain on paper towels and season with salt, pepper, and any additional spices if desired.</string>
+</resources>
